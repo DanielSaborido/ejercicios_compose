@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Image_and_icons_manipulations-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Image_and_icons_manipulations/build/libs</output-path>
+    <root id="archive" name="Image_and_icons_manipulations-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>

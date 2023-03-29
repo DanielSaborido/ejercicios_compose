@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Top_level_windows-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Top_level_windows/build/libs</output-path>
+    <root id="archive" name="Top_level_windows-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>

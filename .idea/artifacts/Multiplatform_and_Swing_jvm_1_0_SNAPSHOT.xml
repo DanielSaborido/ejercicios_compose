@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Multiplatform_and_Swing-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Multiplatform_and_Swing/build/libs</output-path>
+    <root id="archive" name="Multiplatform_and_Swing-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
